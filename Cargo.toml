@@ -1,0 +1,12 @@
+[package]
+name = "ws-sample"
+version = "0.1.0"
+authors = ["Patrick Fernie <patrick.fernie@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+warp = "0.1.16"
+pretty_env_logger = "0.3.0"
+tokio = "0.1.21"
+futures = "0.1.27"
+log = "0.4.6"
